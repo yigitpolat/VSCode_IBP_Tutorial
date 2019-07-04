@@ -1,6 +1,6 @@
 # IBM Blockchain Platform Extension for VS Code Tutorial
 
-This document has been prepared by Kemal Aydin (kemal.aydin@ibm.com) and Yigit Polat (yigit.polat@ibm.com), and contains a visual description of IBM Blockchain Platform Extension for VS Code and its capabilities as well as providing comprehensive content to whom demands hands-on trainings.
+This document has been prepared by Kemal Aydin (<kemal.aydin@ibm.com>) and Yigit Polat (<yigit.polat@ibm.com>), and contains a visual description of IBM Blockchain Platform Extension for VS Code and its capabilities as well as providing comprehensive content to whom demands hands-on trainings.
 
 The screenshots in this guide were taken from an Ubuntu Virtual Machine which contains all the required tools and configurations. If you would like to follow the steps, don't hesitate to contant to document owners to get the VM image.
 
